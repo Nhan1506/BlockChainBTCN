@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "crypto": "^1.0.1",
     "debug": "^4.1.1",
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.5.3",
     "express": "^4.17.1",
     "react": "^16.13.1",
     "react-basic-table": "^1.0.16",
