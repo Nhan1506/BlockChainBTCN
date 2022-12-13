@@ -9,7 +9,7 @@
     "crypto": "^1.0.1",
     "debug": "^4.1.1",
     "elliptic": "^6.5.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.13.1",
     "react-basic-table": "^1.0.16",
     "react-dom": "^16.13.1",
